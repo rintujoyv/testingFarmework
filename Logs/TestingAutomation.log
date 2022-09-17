@@ -1,0 +1,417 @@
+2022-09-15 18:38:06 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-15 18:38:10 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-15 18:38:10 INFO  TestBase:14 - Test execution has started..testSomthing
+2022-09-15 18:38:10 INFO  TestBase:89 - Finding webelement..null
+2022-09-15 18:38:10 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (36dc768c16fb7a2fe98c0f14ed793425)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-15 18:38:10 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (36dc768c16fb7a2fe98c0f14ed793425)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-15 18:38:10 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (36dc768c16fb7a2fe98c0f14ed793425)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-15 18:38:10 INFO  TestBase:19 - Test execution has pass successfully..testSomthing
+2022-09-15 18:38:13 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-15 18:38:18 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-15 18:38:18 INFO  TestBase:89 - Finding webelement..null
+2022-09-15 18:38:18 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (d5b43ab723319ba8abe6da306a52b61f)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-15 18:38:18 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (d5b43ab723319ba8abe6da306a52b61f)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-15 18:38:18 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (d5b43ab723319ba8abe6da306a52b61f)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-15 18:38:18 INFO  TestBase:89 - Finding webelement..null
+2022-09-15 18:38:18 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (d5b43ab723319ba8abe6da306a52b61f)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-15 18:38:18 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (d5b43ab723319ba8abe6da306a52b61f)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-15 18:38:18 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (d5b43ab723319ba8abe6da306a52b61f)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-15 18:38:18 INFO  TestBase:14 - Test execution has started..verifyCustomerCanLogin
+2022-09-15 18:38:18 INFO  TestBase:89 - Finding webelement..null
+2022-09-15 18:38:18 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (d5b43ab723319ba8abe6da306a52b61f)] -> id: input-email]
+2022-09-15 18:38:18 INFO  TestBase:89 - Finding webelement..null
+2022-09-15 18:38:18 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (d5b43ab723319ba8abe6da306a52b61f)] -> id: input-password]
+2022-09-15 18:38:18 INFO  TestBase:89 - Finding webelement..null
+2022-09-15 18:38:18 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (d5b43ab723319ba8abe6da306a52b61f)] -> xpath: //input[@type='submit']]
+2022-09-15 18:38:19 INFO  TestBase:89 - Finding webelement..null
+2022-09-15 18:38:19 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (d5b43ab723319ba8abe6da306a52b61f)] -> css selector: #content h2]
+2022-09-15 18:38:19 INFO  TestBase:165 - Getting text from..[[ChromeDriver: chrome on WINDOWS (d5b43ab723319ba8abe6da306a52b61f)] -> css selector: #content h2]
+2022-09-15 18:38:19 INFO  TestBase:171 - Got text from..[[ChromeDriver: chrome on WINDOWS (d5b43ab723319ba8abe6da306a52b61f)] -> css selector: #content h2]New Customer
+2022-09-15 18:38:19 INFO  TestBase:19 - Test execution has pass successfully..verifyCustomerCanLogin
+2022-09-16 10:05:55 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 10:05:58 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 10:05:58 INFO  TestBase:14 - Test execution has started..testSomthing
+2022-09-16 10:05:58 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:05:58 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (3c05a15978f68e6178b8ae1579d395a4)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:05:58 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (3c05a15978f68e6178b8ae1579d395a4)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:05:58 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (3c05a15978f68e6178b8ae1579d395a4)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:05:58 INFO  TestBase:19 - Test execution has pass successfully..testSomthing
+2022-09-16 10:06:00 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 10:06:07 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 10:06:07 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:06:07 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (bd67e73f026ce07b32df32ca3222c689)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:06:07 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (bd67e73f026ce07b32df32ca3222c689)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:06:07 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (bd67e73f026ce07b32df32ca3222c689)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:06:07 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:06:07 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (bd67e73f026ce07b32df32ca3222c689)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:06:07 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (bd67e73f026ce07b32df32ca3222c689)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:06:07 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (bd67e73f026ce07b32df32ca3222c689)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:06:07 INFO  TestBase:14 - Test execution has started..verifyCustomerCanLogin
+2022-09-16 10:06:07 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:06:07 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (bd67e73f026ce07b32df32ca3222c689)] -> id: input-email]
+2022-09-16 10:06:08 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:06:08 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (bd67e73f026ce07b32df32ca3222c689)] -> id: input-password]
+2022-09-16 10:06:08 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:06:08 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (bd67e73f026ce07b32df32ca3222c689)] -> xpath: //input[@type='submit']]
+2022-09-16 10:06:08 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:06:08 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (bd67e73f026ce07b32df32ca3222c689)] -> css selector: #content h2]
+2022-09-16 10:06:08 INFO  TestBase:165 - Getting text from..[[ChromeDriver: chrome on WINDOWS (bd67e73f026ce07b32df32ca3222c689)] -> css selector: #content h2]
+2022-09-16 10:06:08 INFO  TestBase:171 - Got text from..[[ChromeDriver: chrome on WINDOWS (bd67e73f026ce07b32df32ca3222c689)] -> css selector: #content h2]New Customer
+2022-09-16 10:06:08 INFO  TestBase:19 - Test execution has pass successfully..verifyCustomerCanLogin
+2022-09-16 10:08:43 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 10:08:47 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 10:08:47 INFO  TestBase:14 - Test execution has started..testSomthing
+2022-09-16 10:08:47 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:08:47 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (4324a275cd3d94fea0f4c35be15961b1)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:08:47 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (4324a275cd3d94fea0f4c35be15961b1)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:08:47 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (4324a275cd3d94fea0f4c35be15961b1)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:08:47 INFO  TestBase:19 - Test execution has pass successfully..testSomthing
+2022-09-16 10:08:49 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 10:08:55 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 10:08:55 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:08:55 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (f09909fc2865afe0981c172bdf63bb91)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:08:55 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (f09909fc2865afe0981c172bdf63bb91)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:08:55 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (f09909fc2865afe0981c172bdf63bb91)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:08:55 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:08:55 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (f09909fc2865afe0981c172bdf63bb91)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:08:55 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (f09909fc2865afe0981c172bdf63bb91)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:08:55 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (f09909fc2865afe0981c172bdf63bb91)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:08:55 INFO  TestBase:14 - Test execution has started..verifyCustomerCanLogin
+2022-09-16 10:08:55 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:08:55 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (f09909fc2865afe0981c172bdf63bb91)] -> id: input-email]
+2022-09-16 10:08:55 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:08:55 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (f09909fc2865afe0981c172bdf63bb91)] -> id: input-password]
+2022-09-16 10:08:55 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:08:56 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (f09909fc2865afe0981c172bdf63bb91)] -> xpath: //input[@type='submit']]
+2022-09-16 10:08:56 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:08:56 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (f09909fc2865afe0981c172bdf63bb91)] -> css selector: #content h2]
+2022-09-16 10:08:56 INFO  TestBase:165 - Getting text from..[[ChromeDriver: chrome on WINDOWS (f09909fc2865afe0981c172bdf63bb91)] -> css selector: #content h2]
+2022-09-16 10:08:56 INFO  TestBase:171 - Got text from..[[ChromeDriver: chrome on WINDOWS (f09909fc2865afe0981c172bdf63bb91)] -> css selector: #content h2]New Customer
+2022-09-16 10:08:56 INFO  TestBase:19 - Test execution has pass successfully..verifyCustomerCanLogin
+2022-09-16 10:11:43 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 10:11:46 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 10:11:46 INFO  TestBase:14 - Test execution has started..testSomthing
+2022-09-16 10:11:46 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:11:46 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (0f799d0b0af2ded9c70e5270978a0c82)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:11:46 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (0f799d0b0af2ded9c70e5270978a0c82)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:11:47 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (0f799d0b0af2ded9c70e5270978a0c82)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:11:47 INFO  TestBase:19 - Test execution has pass successfully..testSomthing
+2022-09-16 10:11:48 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 10:11:53 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 10:11:53 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:11:53 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (792b8996baf4ba51cfeb0ab50af1ed5b)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:11:53 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (792b8996baf4ba51cfeb0ab50af1ed5b)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:11:53 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (792b8996baf4ba51cfeb0ab50af1ed5b)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:11:53 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:11:53 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (792b8996baf4ba51cfeb0ab50af1ed5b)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:11:53 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (792b8996baf4ba51cfeb0ab50af1ed5b)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:11:54 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (792b8996baf4ba51cfeb0ab50af1ed5b)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:11:54 INFO  TestBase:14 - Test execution has started..verifyCustomerCanLogin
+2022-09-16 10:11:54 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:11:54 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (792b8996baf4ba51cfeb0ab50af1ed5b)] -> id: input-email]
+2022-09-16 10:11:54 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:11:54 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (792b8996baf4ba51cfeb0ab50af1ed5b)] -> id: input-password]
+2022-09-16 10:11:54 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:11:54 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (792b8996baf4ba51cfeb0ab50af1ed5b)] -> xpath: //input[@type='submit']]
+2022-09-16 10:11:55 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:11:55 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (792b8996baf4ba51cfeb0ab50af1ed5b)] -> css selector: #content h2]
+2022-09-16 10:11:55 INFO  TestBase:165 - Getting text from..[[ChromeDriver: chrome on WINDOWS (792b8996baf4ba51cfeb0ab50af1ed5b)] -> css selector: #content h2]
+2022-09-16 10:11:55 INFO  TestBase:171 - Got text from..[[ChromeDriver: chrome on WINDOWS (792b8996baf4ba51cfeb0ab50af1ed5b)] -> css selector: #content h2]New Customer
+2022-09-16 10:11:55 INFO  TestBase:19 - Test execution has pass successfully..verifyCustomerCanLogin
+2022-09-16 10:20:08 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 10:20:11 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 10:20:11 INFO  TestBase:14 - Test execution has started..testSomthing
+2022-09-16 10:20:11 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:20:11 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (82fa551aff0dfc7f3625c15881960543)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:20:11 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (82fa551aff0dfc7f3625c15881960543)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:20:11 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (82fa551aff0dfc7f3625c15881960543)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:20:11 INFO  TestBase:19 - Test execution has pass successfully..testSomthing
+2022-09-16 10:20:13 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 10:20:19 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 10:20:19 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:20:19 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (c045c055cc1b1510641abc073b4db93d)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:20:19 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (c045c055cc1b1510641abc073b4db93d)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:20:19 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (c045c055cc1b1510641abc073b4db93d)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:20:19 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:20:19 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (c045c055cc1b1510641abc073b4db93d)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:20:19 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (c045c055cc1b1510641abc073b4db93d)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:20:19 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (c045c055cc1b1510641abc073b4db93d)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:20:19 INFO  TestBase:14 - Test execution has started..failTest
+2022-09-16 10:20:19 INFO  TestBase:16 - Test has failed, Retrying again failTest
+2022-09-16 10:20:19 INFO  TestBase:33 - Test execution has skipped..failTest
+2022-09-16 10:20:24 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 10:20:27 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 10:20:27 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:20:27 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (4d80ffc52cd3b189f3ee25027d070764)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:20:27 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (4d80ffc52cd3b189f3ee25027d070764)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:20:27 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (4d80ffc52cd3b189f3ee25027d070764)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:20:27 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:20:27 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (4d80ffc52cd3b189f3ee25027d070764)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:20:27 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (4d80ffc52cd3b189f3ee25027d070764)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:20:28 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (4d80ffc52cd3b189f3ee25027d070764)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:20:28 INFO  TestBase:14 - Test execution has started..failTest
+2022-09-16 10:20:28 INFO  TestBase:16 - Test has failed, Retrying again failTest
+2022-09-16 10:20:28 INFO  TestBase:25 - Test execution has failed and taking screenshot..failTest
+2022-09-16 10:20:30 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 10:20:36 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 10:20:36 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:20:36 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (6c69079c9e5d984c6ab6f62f815d84df)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:20:36 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (6c69079c9e5d984c6ab6f62f815d84df)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:20:36 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (6c69079c9e5d984c6ab6f62f815d84df)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 10:20:36 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:20:36 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (6c69079c9e5d984c6ab6f62f815d84df)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:20:36 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (6c69079c9e5d984c6ab6f62f815d84df)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:20:37 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (6c69079c9e5d984c6ab6f62f815d84df)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 10:20:37 INFO  TestBase:14 - Test execution has started..verifyCustomerCanLogin
+2022-09-16 10:20:37 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:20:37 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (6c69079c9e5d984c6ab6f62f815d84df)] -> id: input-email]
+2022-09-16 10:20:37 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:20:37 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (6c69079c9e5d984c6ab6f62f815d84df)] -> id: input-password]
+2022-09-16 10:20:37 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:20:37 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (6c69079c9e5d984c6ab6f62f815d84df)] -> xpath: //input[@type='submit']]
+2022-09-16 10:20:38 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 10:20:38 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (6c69079c9e5d984c6ab6f62f815d84df)] -> css selector: #content h2]
+2022-09-16 10:20:38 INFO  TestBase:165 - Getting text from..[[ChromeDriver: chrome on WINDOWS (6c69079c9e5d984c6ab6f62f815d84df)] -> css selector: #content h2]
+2022-09-16 10:20:38 INFO  TestBase:171 - Got text from..[[ChromeDriver: chrome on WINDOWS (6c69079c9e5d984c6ab6f62f815d84df)] -> css selector: #content h2]New Customer
+2022-09-16 10:20:38 INFO  TestBase:19 - Test execution has pass successfully..verifyCustomerCanLogin
+2022-09-16 12:10:32 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 12:10:36 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 12:10:36 INFO  TestBase:14 - Test execution has started..testSomthing
+2022-09-16 12:10:36 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:10:36 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (5f9ecd92962328153382be1241a733d5)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:10:36 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (5f9ecd92962328153382be1241a733d5)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:10:36 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (5f9ecd92962328153382be1241a733d5)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:10:36 INFO  TestBase:19 - Test execution has pass successfully..testSomthing
+2022-09-16 12:10:41 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 12:10:45 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 12:10:45 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:10:45 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (233f3d631b57d66206470953246c27b0)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:10:45 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (233f3d631b57d66206470953246c27b0)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:10:45 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (233f3d631b57d66206470953246c27b0)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:10:45 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:10:45 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (233f3d631b57d66206470953246c27b0)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 12:10:45 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (233f3d631b57d66206470953246c27b0)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 12:10:46 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (233f3d631b57d66206470953246c27b0)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 12:10:46 INFO  TestBase:14 - Test execution has started..verifyCustomerLogin
+2022-09-16 12:10:46 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:10:46 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (233f3d631b57d66206470953246c27b0)] -> id: input-email]
+2022-09-16 12:10:46 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:10:46 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (233f3d631b57d66206470953246c27b0)] -> id: input-password]
+2022-09-16 12:10:46 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:10:46 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (233f3d631b57d66206470953246c27b0)] -> xpath: //input[@type='submit']]
+2022-09-16 12:10:47 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:10:47 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (233f3d631b57d66206470953246c27b0)] -> css selector: #content h2]
+2022-09-16 12:10:47 INFO  TestBase:165 - Getting text from..[[ChromeDriver: chrome on WINDOWS (233f3d631b57d66206470953246c27b0)] -> css selector: #content h2]
+2022-09-16 12:10:47 INFO  TestBase:171 - Got text from..[[ChromeDriver: chrome on WINDOWS (233f3d631b57d66206470953246c27b0)] -> css selector: #content h2]My Account
+2022-09-16 12:10:47 INFO  TestBase:19 - Test execution has pass successfully..verifyCustomerLogin
+2022-09-16 12:10:49 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 12:10:53 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 12:10:53 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:10:53 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (ae6032387d93d1641db97cc18d14502f)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:10:53 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (ae6032387d93d1641db97cc18d14502f)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:10:53 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (ae6032387d93d1641db97cc18d14502f)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:10:53 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:10:53 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (ae6032387d93d1641db97cc18d14502f)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 12:10:53 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (ae6032387d93d1641db97cc18d14502f)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 12:10:53 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (ae6032387d93d1641db97cc18d14502f)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 12:10:53 INFO  TestBase:14 - Test execution has started..verifyCustomerLogin
+2022-09-16 12:10:53 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:10:53 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (ae6032387d93d1641db97cc18d14502f)] -> id: input-email]
+2022-09-16 12:10:53 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:10:53 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (ae6032387d93d1641db97cc18d14502f)] -> id: input-password]
+2022-09-16 12:10:53 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:10:53 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (ae6032387d93d1641db97cc18d14502f)] -> xpath: //input[@type='submit']]
+2022-09-16 12:10:56 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:10:56 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (ae6032387d93d1641db97cc18d14502f)] -> css selector: #content h2]
+2022-09-16 12:10:56 INFO  TestBase:165 - Getting text from..[[ChromeDriver: chrome on WINDOWS (ae6032387d93d1641db97cc18d14502f)] -> css selector: #content h2]
+2022-09-16 12:10:56 INFO  TestBase:171 - Got text from..[[ChromeDriver: chrome on WINDOWS (ae6032387d93d1641db97cc18d14502f)] -> css selector: #content h2]My Account
+2022-09-16 12:10:56 INFO  TestBase:19 - Test execution has pass successfully..verifyCustomerLogin
+2022-09-16 12:10:58 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 12:11:03 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 12:11:03 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:11:03 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (d505cff1ea5692d6143a4337baaa34c5)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:11:03 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (d505cff1ea5692d6143a4337baaa34c5)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:11:03 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (d505cff1ea5692d6143a4337baaa34c5)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:11:03 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:11:03 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (d505cff1ea5692d6143a4337baaa34c5)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 12:11:03 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (d505cff1ea5692d6143a4337baaa34c5)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 12:11:03 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (d505cff1ea5692d6143a4337baaa34c5)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 12:11:03 INFO  TestBase:14 - Test execution has started..verifyCustomerLogin
+2022-09-16 12:11:03 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:11:03 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (d505cff1ea5692d6143a4337baaa34c5)] -> id: input-email]
+2022-09-16 12:11:03 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:11:03 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (d505cff1ea5692d6143a4337baaa34c5)] -> id: input-password]
+2022-09-16 12:11:03 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:11:03 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (d505cff1ea5692d6143a4337baaa34c5)] -> xpath: //input[@type='submit']]
+2022-09-16 12:11:04 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:11:04 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (d505cff1ea5692d6143a4337baaa34c5)] -> css selector: #content h2]
+2022-09-16 12:11:04 INFO  TestBase:165 - Getting text from..[[ChromeDriver: chrome on WINDOWS (d505cff1ea5692d6143a4337baaa34c5)] -> css selector: #content h2]
+2022-09-16 12:11:04 INFO  TestBase:171 - Got text from..[[ChromeDriver: chrome on WINDOWS (d505cff1ea5692d6143a4337baaa34c5)] -> css selector: #content h2]My Account
+2022-09-16 12:11:04 INFO  TestBase:19 - Test execution has pass successfully..verifyCustomerLogin
+2022-09-16 12:11:06 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-16 12:11:11 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-16 12:11:11 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:11:11 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (1492d88dbf0ecd7343f37e58574b7257)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:11:11 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (1492d88dbf0ecd7343f37e58574b7257)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:11:11 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (1492d88dbf0ecd7343f37e58574b7257)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-16 12:11:11 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:11:11 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (1492d88dbf0ecd7343f37e58574b7257)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 12:11:11 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (1492d88dbf0ecd7343f37e58574b7257)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 12:11:12 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (1492d88dbf0ecd7343f37e58574b7257)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-16 12:11:12 INFO  TestBase:14 - Test execution has started..verifyCustomerLogin
+2022-09-16 12:11:12 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:11:12 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (1492d88dbf0ecd7343f37e58574b7257)] -> id: input-email]
+2022-09-16 12:11:12 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:11:12 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (1492d88dbf0ecd7343f37e58574b7257)] -> id: input-password]
+2022-09-16 12:11:12 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:11:12 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (1492d88dbf0ecd7343f37e58574b7257)] -> xpath: //input[@type='submit']]
+2022-09-16 12:11:12 INFO  TestBase:89 - Finding webelement..null
+2022-09-16 12:11:13 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (1492d88dbf0ecd7343f37e58574b7257)] -> css selector: #content h2]
+2022-09-16 12:11:13 INFO  TestBase:165 - Getting text from..[[ChromeDriver: chrome on WINDOWS (1492d88dbf0ecd7343f37e58574b7257)] -> css selector: #content h2]
+2022-09-16 12:11:13 INFO  TestBase:171 - Got text from..[[ChromeDriver: chrome on WINDOWS (1492d88dbf0ecd7343f37e58574b7257)] -> css selector: #content h2]My Account
+2022-09-16 12:11:13 INFO  TestBase:19 - Test execution has pass successfully..verifyCustomerLogin
+2022-09-17 10:31:31 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-17 10:31:34 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-17 10:31:35 INFO  TestBase:14 - Test execution has started..testSomthing
+2022-09-17 10:31:35 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 10:31:35 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (6c89411fe914186271515b865d2b2b61)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 10:31:35 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (6c89411fe914186271515b865d2b2b61)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 10:31:35 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (6c89411fe914186271515b865d2b2b61)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 10:31:35 INFO  TestBase:19 - Test execution has pass successfully..testSomthing
+2022-09-17 10:31:39 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-17 10:31:42 INFO  TestBase:147 - Exception Encountered..no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LH8CVGM', ip: '192.168.2.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\MELBHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49743}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c04e780996189d2c179ab8a53f23ff81
+2022-09-17 10:31:42 INFO  TestBase:14 - Test execution has started..verifyCustomerLogin
+2022-09-17 10:31:42 INFO  TestBase:33 - Test execution has skipped..verifyCustomerLogin
+2022-09-17 10:31:42 INFO  TestBase:14 - Test execution has started..verifyCustomerLogin
+2022-09-17 10:31:42 INFO  TestBase:33 - Test execution has skipped..verifyCustomerLogin
+2022-09-17 10:31:42 INFO  TestBase:14 - Test execution has started..verifyCustomerLogin
+2022-09-17 10:31:42 INFO  TestBase:33 - Test execution has skipped..verifyCustomerLogin
+2022-09-17 10:31:42 INFO  TestBase:14 - Test execution has started..verifyCustomerLogin
+2022-09-17 10:31:42 INFO  TestBase:33 - Test execution has skipped..verifyCustomerLogin
+2022-09-17 10:33:38 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-17 10:33:42 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-17 10:33:42 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 10:33:42 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (7b5294d4324d1ab2783ddff5cef80971)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 10:33:42 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (7b5294d4324d1ab2783ddff5cef80971)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 10:33:52 INFO  TestBase:147 - Exception Encountered..element not interactable
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LH8CVGM', ip: '192.168.2.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\WINDOWS\TEMP\scoped_dir2...}, goog:chromeOptions: {debuggerAddress: localhost:49821}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b5294d4324d1ab2783ddff5cef80971
+2022-09-17 10:33:53 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-17 10:33:58 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-17 10:33:58 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 10:33:58 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (15858a7a8bc61d9f6db1604e668a260c)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 10:33:58 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (15858a7a8bc61d9f6db1604e668a260c)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 10:34:08 INFO  TestBase:147 - Exception Encountered..element not interactable
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LH8CVGM', ip: '192.168.2.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\WINDOWS\TEMP\scoped_dir2...}, goog:chromeOptions: {debuggerAddress: localhost:49849}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15858a7a8bc61d9f6db1604e668a260c
+2022-09-17 11:05:50 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-17 11:05:53 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-17 11:05:53 INFO  TestBase:14 - Test execution has started..testSomthing
+2022-09-17 11:05:53 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:05:53 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (9be5953c789a7a06066d67b22fad6d87)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:05:53 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (9be5953c789a7a06066d67b22fad6d87)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:05:53 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (9be5953c789a7a06066d67b22fad6d87)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:05:53 INFO  TestBase:19 - Test execution has pass successfully..testSomthing
+2022-09-17 11:05:55 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-17 11:06:02 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-17 11:06:03 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:03 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (b8ef1b14124dfeda0688978349b9e8bb)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:06:03 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (b8ef1b14124dfeda0688978349b9e8bb)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:06:03 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (b8ef1b14124dfeda0688978349b9e8bb)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:06:03 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:03 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (b8ef1b14124dfeda0688978349b9e8bb)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-17 11:06:03 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (b8ef1b14124dfeda0688978349b9e8bb)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-17 11:06:03 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (b8ef1b14124dfeda0688978349b9e8bb)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-17 11:06:03 INFO  TestBase:14 - Test execution has started..verifyCustomerLogin
+2022-09-17 11:06:03 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:03 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (b8ef1b14124dfeda0688978349b9e8bb)] -> id: input-email]
+2022-09-17 11:06:04 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:04 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (b8ef1b14124dfeda0688978349b9e8bb)] -> id: input-password]
+2022-09-17 11:06:04 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:04 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (b8ef1b14124dfeda0688978349b9e8bb)] -> xpath: //input[@type='submit']]
+2022-09-17 11:06:05 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:05 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (b8ef1b14124dfeda0688978349b9e8bb)] -> css selector: #content h2]
+2022-09-17 11:06:05 INFO  TestBase:165 - Getting text from..[[ChromeDriver: chrome on WINDOWS (b8ef1b14124dfeda0688978349b9e8bb)] -> css selector: #content h2]
+2022-09-17 11:06:05 INFO  TestBase:171 - Got text from..[[ChromeDriver: chrome on WINDOWS (b8ef1b14124dfeda0688978349b9e8bb)] -> css selector: #content h2]My Account
+2022-09-17 11:06:05 INFO  TestBase:19 - Test execution has pass successfully..verifyCustomerLogin
+2022-09-17 11:06:07 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-17 11:06:14 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-17 11:06:14 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:14 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (e36b49443eb1b0df726593d5e7bbe56e)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:06:14 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (e36b49443eb1b0df726593d5e7bbe56e)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:06:14 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (e36b49443eb1b0df726593d5e7bbe56e)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:06:14 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:14 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (e36b49443eb1b0df726593d5e7bbe56e)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-17 11:06:14 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (e36b49443eb1b0df726593d5e7bbe56e)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-17 11:06:15 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (e36b49443eb1b0df726593d5e7bbe56e)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-17 11:06:15 INFO  TestBase:14 - Test execution has started..verifyCustomerLogin
+2022-09-17 11:06:15 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:15 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (e36b49443eb1b0df726593d5e7bbe56e)] -> id: input-email]
+2022-09-17 11:06:15 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:15 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (e36b49443eb1b0df726593d5e7bbe56e)] -> id: input-password]
+2022-09-17 11:06:15 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:15 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (e36b49443eb1b0df726593d5e7bbe56e)] -> xpath: //input[@type='submit']]
+2022-09-17 11:06:16 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:16 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (e36b49443eb1b0df726593d5e7bbe56e)] -> css selector: #content h2]
+2022-09-17 11:06:16 INFO  TestBase:165 - Getting text from..[[ChromeDriver: chrome on WINDOWS (e36b49443eb1b0df726593d5e7bbe56e)] -> css selector: #content h2]
+2022-09-17 11:06:16 INFO  TestBase:171 - Got text from..[[ChromeDriver: chrome on WINDOWS (e36b49443eb1b0df726593d5e7bbe56e)] -> css selector: #content h2]My Account
+2022-09-17 11:06:16 INFO  TestBase:19 - Test execution has pass successfully..verifyCustomerLogin
+2022-09-17 11:06:20 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-17 11:06:23 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-17 11:06:23 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:24 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (47952cadeb3ae9096ed43d316dc85326)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:06:24 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (47952cadeb3ae9096ed43d316dc85326)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:06:24 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (47952cadeb3ae9096ed43d316dc85326)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:06:24 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:24 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (47952cadeb3ae9096ed43d316dc85326)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-17 11:06:24 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (47952cadeb3ae9096ed43d316dc85326)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-17 11:06:24 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (47952cadeb3ae9096ed43d316dc85326)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-17 11:06:24 INFO  TestBase:14 - Test execution has started..verifyCustomerLogin
+2022-09-17 11:06:24 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:24 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (47952cadeb3ae9096ed43d316dc85326)] -> id: input-email]
+2022-09-17 11:06:24 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:24 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (47952cadeb3ae9096ed43d316dc85326)] -> id: input-password]
+2022-09-17 11:06:24 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:24 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (47952cadeb3ae9096ed43d316dc85326)] -> xpath: //input[@type='submit']]
+2022-09-17 11:06:25 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:25 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (47952cadeb3ae9096ed43d316dc85326)] -> css selector: #content h2]
+2022-09-17 11:06:25 INFO  TestBase:165 - Getting text from..[[ChromeDriver: chrome on WINDOWS (47952cadeb3ae9096ed43d316dc85326)] -> css selector: #content h2]
+2022-09-17 11:06:25 INFO  TestBase:171 - Got text from..[[ChromeDriver: chrome on WINDOWS (47952cadeb3ae9096ed43d316dc85326)] -> css selector: #content h2]My Account
+2022-09-17 11:06:25 INFO  TestBase:19 - Test execution has pass successfully..verifyCustomerLogin
+2022-09-17 11:06:26 INFO  TestBase:40 - Navigating to URl..data:,
+2022-09-17 11:06:39 INFO  TestBase:46 - Navigated to URl..https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2022-09-17 11:06:39 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:39 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (3a8aab5ba1521563eacadfa98fd7ebb4)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:06:39 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (3a8aab5ba1521563eacadfa98fd7ebb4)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:06:39 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (3a8aab5ba1521563eacadfa98fd7ebb4)] -> css selector: #top-links ul li:nth-of-type(2) span:first-of-type]
+2022-09-17 11:06:39 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:39 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (3a8aab5ba1521563eacadfa98fd7ebb4)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-17 11:06:39 INFO  TestBase:100 - Clicking webelement..[[ChromeDriver: chrome on WINDOWS (3a8aab5ba1521563eacadfa98fd7ebb4)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-17 11:06:40 INFO  TestBase:105 - Clicked webelement..[[ChromeDriver: chrome on WINDOWS (3a8aab5ba1521563eacadfa98fd7ebb4)] -> css selector: #top-links ul.dropdown-menu li:last-of-type a]
+2022-09-17 11:06:40 INFO  TestBase:14 - Test execution has started..verifyCustomerLogin
+2022-09-17 11:06:40 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:40 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (3a8aab5ba1521563eacadfa98fd7ebb4)] -> id: input-email]
+2022-09-17 11:06:40 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:40 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (3a8aab5ba1521563eacadfa98fd7ebb4)] -> id: input-password]
+2022-09-17 11:06:40 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:40 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (3a8aab5ba1521563eacadfa98fd7ebb4)] -> xpath: //input[@type='submit']]
+2022-09-17 11:06:40 INFO  TestBase:89 - Finding webelement..null
+2022-09-17 11:06:40 INFO  TestBase:94 - Webelement found..[[ChromeDriver: chrome on WINDOWS (3a8aab5ba1521563eacadfa98fd7ebb4)] -> css selector: #content h2]
+2022-09-17 11:06:40 INFO  TestBase:165 - Getting text from..[[ChromeDriver: chrome on WINDOWS (3a8aab5ba1521563eacadfa98fd7ebb4)] -> css selector: #content h2]
+2022-09-17 11:06:40 INFO  TestBase:171 - Got text from..[[ChromeDriver: chrome on WINDOWS (3a8aab5ba1521563eacadfa98fd7ebb4)] -> css selector: #content h2]My Account
+2022-09-17 11:06:40 INFO  TestBase:19 - Test execution has pass successfully..verifyCustomerLogin
